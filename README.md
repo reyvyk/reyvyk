@@ -1,4 +1,4 @@
-## Hi Ola eu sou Reyvyk Ferreira
+## Ola eu sou Reyvyk Ferreira
 
 - 🔭 Desenvolvedor Full-Stack
 - 🌱 Typescript, React ...
